@@ -1,5 +1,4 @@
 # Bear Maps Project.
-# CS61B - Project 3.
 
 In this project, I have implemented the back end of a web server bear maps, which is similar to Google maps. 
 
