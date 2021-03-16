@@ -7,7 +7,8 @@ Bear Maps is a web mapping application that finds the shortest route between two
 ![](images/demo.gif)
 
 How to start the app and use it:
-- Go to Map Server class in 
+- Go to src/main/java/MapServer.java and run MapServer.java and then go to src/static/page/map.html and click on map.html. After that 
+options of browsers will appear in right above of map.html page. click on any browser and the app will be opened.
 
 
-for more information: https://sp18.datastructur.es/materials/proj/proj3/proj3
+
