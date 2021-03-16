@@ -44,15 +44,14 @@ public class MapServer {
     /**
      *
      */
-    private static final String PROJECT_ROOT = "C:/Users/bahgat/cs61b2/cs61b/";
 
     /** The tile images are in the IMG_ROOT folder. */
-    private static final String IMG_ROOT = PROJECT_ROOT + "library-sp18/data/proj3_imgs/";
+    private static final String IMG_ROOT = "./library-sp18/data/proj3_imgs/";
     /**
      * The OSM XML file path. Downloaded from <a href="http://download.bbbike.org/osm/">here</a>
      * using custom region selection.
      **/
-    private static final String OSM_DB_PATH = PROJECT_ROOT + "/library-sp18/data/berkeley-2018.osm.xml";
+    private static final String OSM_DB_PATH = "./library-sp18/data/berkeley-2018.osm.xml";
     /**
      * Each raster request to the server will have the following parameters
      * as keys in the params map accessible by,
