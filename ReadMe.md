@@ -1,8 +1,7 @@
-# Bear Maps Project.
+# BearMaps .
 
 A google map clone with basic map features.
-
-Bear Maps is a web mapping application that finds the shortest route between two points in Berkeley. Features: turn-by-turn directions, Autocomplete, and location search.
+Bear Maps is a web mapping application that is capable of performing most features you would expect of a mapping application. The features of the application include map dragging/zooming, map rasterization, A* search algorithm between two points, a route navigation directions and an auto-complete search feature. 
 
 ![](images/demo.gif)
 
