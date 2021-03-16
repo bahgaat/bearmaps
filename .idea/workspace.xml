@@ -20,18 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8512c664-d3af-4340-9c65-5099b816fab7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GraphDBLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GraphDBLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MapServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MapServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Router.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Router.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/CSCourseDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/CSCourseDBHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestDirections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestDirections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestGraphBuilding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestGraphBuilding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestGraphBuildingTiny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestGraphBuildingTiny.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRouter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRouterTiny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRouterTiny.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
